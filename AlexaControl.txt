@@ -1,0 +1,139 @@
+
+start msaccess
+start msaccess
+start chrome myCourses.rit.edu
+start chrome canvas.psu.edu
+start chrome https://ift.tt/2GIHvhV
+start chrome www.facebook.com
+start chrome canvas.psu.edu
+start excel
+start chrome myCourses.rit.edu
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start excel
+start chrome https://ift.tt/2GIHvhV
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start msaccess
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start msaccess
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start msaccess
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start chrome canvas.psu.edu
+Rundll32.exe User32.dll,LockWorkStation
+start msaccess
+Rundll32.exe User32.dll,LockWorkStation
+start chrome www.facebook.com
+
+
+start chrome "canvas.psu.edu"
+
+
+start chrome
+
+start chrome "canvas.psu.edu"
+
+
+start chrome
+
+start chrome "canvas.psu.edu"
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+
+start chrome
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+
+start chrome
+
+cd / && cd Applications && open safari.app
+
+cd / && cd Applications && open safari.app
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+
+start chrome
+
+cd / && cd Applications && open safari.app
+
+
+start chrome
+/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend
+
+cd / && cd Applications && open safari.app
+
+/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend
+
+rundll32.exe user32.dll,LockWorkStation
+
+rundll32.exe user32.dll,LockWorkStation
+
+
+start chrome
+
+rundll32.exe user32.dll,LockWorkStation
+
+
+start chrome
+
+rundll32.exe user32.dll,LockWorkStation
+
+
+start chrome
+
+
+start chrome
